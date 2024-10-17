@@ -1,7 +1,7 @@
 # Classification_Of_Cats_and_Dogs_Using_SVM
 ## Introduction
 The project "Classification of Cats and Dogs using Support Vector Machine (SVM)" focuses on building a machine learning model to distinguish between images of cats and dogs. This is a common classification problem in the field of computer vision, where the goal is to accurately categorize input images into one of two predefined classes: cats or dogs. The Support Vector Machine (SVM) algorithm is particularly well-suited for this binary classification task due to its effectiveness in finding the optimal decision boundary between classes, even in high-dimensional spaces.
-## Breif Description of the Project
+## Breif Description About the Project
 The "Classification of Cats and Dogs using Support Vector Machine (SVM)" project involves building a model to classify images of cats and dogs. The process starts with collecting a labeled dataset, followed by image preprocessing, which includes resizing and normalization. Feature extraction techniques like Histogram of Oriented Gradients (HOG) are used to convert the images into structured data. The SVM model is then trained to find an optimal decision boundary using kernel functions such as linear or RBF, with parameters like regularization (C) and gamma (γ) tuned for better performance. The model's effectiveness is evaluated using metrics like accuracy, precision, recall, and F1-score, along with a confusion matrix. This project highlights the capability of SVM in solving binary classification tasks in computer vision.
 ## Lists Of Libraries and Dataset:
 ### Libraries
